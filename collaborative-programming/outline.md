@@ -1,8 +1,11 @@
 # Collaborative programming with GitHub
 
+## Outline
+
 <ol type="I">
   <li>Why?</li>
     <ol type="A">
+      <li>project management</li>
       <li>version control</li>
       <li>recordkeeping</li>
       <li>acountability</li>
@@ -10,6 +13,12 @@
   <li>What?</li>
     <ol type="A">
       <li>git vs. GitHub</li>
+        <ul><li>GitHub alternatives</li>
+        <ol type="1">
+        <li>GitLab</li>
+        <li>BitBucket</li>
+        <li>Sourcehut</li>
+        </ol></ul>
       <li>git tree structure</li>
         <ol type="1">
         <li>config files</li>
@@ -68,4 +77,6 @@
     <li>Help?</li>
 </ol>
 
-- [Q&A](https://docs.google.com/document/d/19ppy9LpwQAQV8oiMSNLGOVXuymwidmjhAZ79PfYvM8k)
+## References
+
+- cmi-cnl.slack.com#science-code-exchange. 2023 April 6. ["How to use git/github both individually and as a group"](https://cmi-cnl.slack.com/archives/C04MVF9UJLC/p1680705851900279): [Q&A](https://docs.google.com/document/d/19ppy9LpwQAQV8oiMSNLGOVXuymwidmjhAZ79PfYvM8k). 
