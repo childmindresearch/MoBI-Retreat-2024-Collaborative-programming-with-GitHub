@@ -2,6 +2,7 @@
 *.mov
 *.mp4
 *.pdf
+!2024-collaborative-programming/slides.pdf
 *.png
 *.svg
 *.webm
