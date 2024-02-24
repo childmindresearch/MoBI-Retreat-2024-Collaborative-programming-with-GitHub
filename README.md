@@ -1,8 +1,10 @@
 # Collaborative programming with GitHub
 
-[🔗 References (rendered)](https://childmindresearch.github.io/MoBI-Retreat-2024-Collaborative-programming-with-GitHub/collaborative-programming/references.html)
+[📼 video presentation (YouTube)](https://youtu.be/mMj3jdlmD2k)
 
-[🎞️ Slides (PDF)](./2024-collaborative-programming/slides.pdf)
+[🔗 references (rendered)](https://childmindresearch.github.io/MoBI-Retreat-2024-Collaborative-programming-with-GitHub/collaborative-programming/references.html)
+
+[🎞️ slides (PDF)](./2024-collaborative-programming/slides.pdf)
 
 ## Repository contents
 - [references (BibTeX)](./2024-collaborative-programming/references.bib)
